@@ -17,6 +17,10 @@
 # IDE and OS files
 .vs/
 .idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
 .DS_Store
 
 # Unity profiling and asset-store artifacts
