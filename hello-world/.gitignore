@@ -1,0 +1,27 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity-generated IDE and solution files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# IDE and OS files
+.vs/
+.idea/
+.DS_Store
+
+# Unity profiling and asset-store artifacts
+MemoryCaptures/
+AssetStoreTools/
+
+# Crash reports
+sysinfo.txt
