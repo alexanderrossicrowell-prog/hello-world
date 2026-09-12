@@ -1,0 +1,15 @@
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/bin/Debug/net10.0/HelloWorldRunner
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/bin/Debug/net10.0/HelloWorldRunner.deps.json
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/bin/Debug/net10.0/HelloWorldRunner.runtimeconfig.json
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/bin/Debug/net10.0/HelloWorldRunner.dll
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/bin/Debug/net10.0/HelloWorldRunner.pdb
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.AssemblyInfoInputs.cache
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.AssemblyInfo.cs
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.csproj.CoreCompileInputs.cache
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.sourcelink.json
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.dll
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/refint/HelloWorldRunner.dll
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.pdb
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/HelloWorldRunner.genruntimeconfig.cache
+/Users/alexandercrowell/Documents/repo/hello-world/HelloWorldRunner/obj/Debug/net10.0/ref/HelloWorldRunner.dll
